@@ -23,7 +23,7 @@ git clone https://github.com/laocaixw/wxBubble.git wxBubbleDemo
 
 在需要使用气泡的界面 `wxss` 文件中插入以下代码：
 ```
-@import "/wxBubble/wxBubble.wxss";
+@import "../../wxBubble/wxBubble.wxss";
 ```
 
 在需要使用气泡的界面 `wxml` 文件中插入以下代码：
