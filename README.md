@@ -97,7 +97,7 @@ arrowHeight|气泡箭头高度|单位 `rpx`
 
 `wxBubble.js` 文件第一行有版本说明，eg：`// version : 1.0.0`
 
-- 1.0.0 初始版本
+- 1.0.0 初始版本 date:20180930
 
 # License
 
