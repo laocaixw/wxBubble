@@ -14,7 +14,7 @@
 1. 克隆代码到本地：
 
 ```
-git clone https://github.com/laocaixw/wxBubble.git
+git clone https://github.com/laocaixw/wxBubble.git wxBubbleDemo
 ```
 
 将其中的 `wxBubble` 文件夹复制到需要使用气泡的工程根目录下；
