@@ -1,0 +1,11 @@
+<template name="custom_bubble">
+    <block wx:if="{{custom_bubble}}">
+        <view id="custom_bubble_mask" bindtap="bubbleMaskTap">
+            <view id="custom_bubble_container" style="margin-top:{{custom_bubble.margin_top}}px;">
+                <view id="custom_bubble_up" hidden="{{custom_bubble.direction!='up'}}" style="margin-left:{{custom_bubble.margin_left}}px;border-width:{{custom_bubble.arrowHeight}}rpx;border-color:transparent transparent {{custom_bubble.backgroudColor}} transparent"></view>
+                <text id="custom_bubble_txt" style="margin-left:{{custom_bubble.content_margin_left}}px;background:{{custom_bubble.backgroudColor}};color:{{custom_bubble.fontColor}};font-size:{{custom_bubble.fontSize}}rpx;padding:{{custom_bubble.paddingColumn}}rpx {{custom_bubble.paddingRow}}rpx;border-radius:{{custom_bubble.contentRadius}}rpx;max-width:400rpx;">{{custom_bubble.content}}</text>
+                <view id="custom_bubble_down" hidden="{{custom_bubble.direction!='down'}}" style="margin-left:{{custom_bubble.margin_left}}px;border-width:{{custom_bubble.arrowHeight}}rpx;border-color:{{custom_bubble.backgroudColor}} transparent transparent transparent"></view>
+            </view>
+        </view>
+    </block>
+</template>
