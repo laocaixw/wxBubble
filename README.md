@@ -1,20 +1,20 @@
-# BubbleDemo
+# wxBubble
 微信小程序 气泡控件
 
 # 一、简介
 
 先看效果图：
 
-![image](https://raw.githubusercontent.com/laocaixw/BubbleDemo/master/screen/0.jpg)
-![image](https://raw.githubusercontent.com/laocaixw/BubbleDemo/master/screen/1.jpg)
-![image](https://raw.githubusercontent.com/laocaixw/BubbleDemo/master/screen/2.jpg)
+![image](https://raw.githubusercontent.com/laocaixw/wxBubble/master/screen/0.jpg)
+![image](https://raw.githubusercontent.com/laocaixw/wxBubble/master/screen/1.jpg)
+![image](https://raw.githubusercontent.com/laocaixw/wxBubble/master/screen/2.jpg)
 
 # 二、用法
 
 1. 克隆代码到本地：
 
 ```
-git clone https://github.com/laocaixw/BubbleDemo.git
+git clone https://github.com/laocaixw/wxBubble.git
 ```
 
 将其中的 `wxBubble` 文件夹复制到需要使用气泡的工程根目录下；
