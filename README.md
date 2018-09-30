@@ -17,7 +17,7 @@
 git clone https://github.com/laocaixw/wxBubble.git wxBubbleDemo
 ```
 
-将其中的 `wxBubble` 文件夹复制到需要使用气泡的工程根目录下；
+将此工程根目录下的 `wxBubble` 文件夹复制到需要使用气泡的工程根目录下；
 
 2. 引用相应代码（使用时，注意路径）：
 
