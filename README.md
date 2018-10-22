@@ -1,5 +1,5 @@
 # wxBubble
-微信小程序 气泡控件
+微信小程序 气泡控件 wechat bubble
 
 # 一、简介
 
